@@ -1,0 +1,14 @@
+D:\Quartz\QuartzDemo\example1\bin\Debug\example1.exe.config
+D:\Quartz\QuartzDemo\example1\bin\Debug\example1.exe
+D:\Quartz\QuartzDemo\example1\bin\Debug\example1.pdb
+D:\Quartz\QuartzDemo\example1\bin\Debug\Common.Logging.Core.dll
+D:\Quartz\QuartzDemo\example1\bin\Debug\Common.Logging.dll
+D:\Quartz\QuartzDemo\example1\bin\Debug\Quartz.dll
+D:\Quartz\QuartzDemo\example1\bin\Debug\Common.Logging.pdb
+D:\Quartz\QuartzDemo\example1\bin\Debug\Common.Logging.xml
+D:\Quartz\QuartzDemo\example1\bin\Debug\Common.Logging.Core.pdb
+D:\Quartz\QuartzDemo\example1\bin\Debug\Common.Logging.Core.xml
+D:\Quartz\QuartzDemo\example1\bin\Debug\Quartz.pdb
+D:\Quartz\QuartzDemo\example1\bin\Debug\Quartz.xml
+D:\Quartz\QuartzDemo\example1\obj\Debug\example1.exe
+D:\Quartz\QuartzDemo\example1\obj\Debug\example1.pdb
